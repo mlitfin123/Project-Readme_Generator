@@ -1,17 +1,3 @@
-# homework9-readme# ReadMe
-This application was developed by: mlitfin@github.cmo
-
-sdjlkfkj
-## Installation
-sdkjlf
-## How to use the Application
-sfjdlk
-## Issue Reporting and Contributing
-sfajd;l
-## Other Contibuting Developers:
-sfdjlk
-## Licence(s)
-sjfdlk
 # ReadMe Application
 This application creates a readme when invoked from the command line.
 ## Installation:
@@ -26,31 +12,3 @@ N/A
 N/A
 ## Questions, Contact:
 mark.litfin@yahoo.com
-# 
-
-## Installation:
-
-## How to use the Application:
-
-## Other Contibuting Developers:
-
-## Licence(s):
-
-## Tests:
-
-## Questions, Contact:
-
-# 
-
-## Installation:
-
-## How to use the Application:
-
-## Other Contibuting Developers:
-
-## Licence(s):
-
-## Tests:
-
-## Questions, Contact:
-
