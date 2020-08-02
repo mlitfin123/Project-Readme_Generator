@@ -1,5 +1,7 @@
 # ReadMe Application
 This application creates a readme when invoked from the command line.
+## Video of the working application:
+https://drive.google.com/file/d/1j7E1QuycvR_vHH3B_bRK4NXyrJ7aZmI-/view
 ## Installation:
 The user will enter the command "node index.js" into the terminal.
 ## How to use the Application:
